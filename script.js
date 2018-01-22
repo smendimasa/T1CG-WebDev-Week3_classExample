@@ -11,7 +11,7 @@ const videoBtn = document.getElementById('videoButton')
 
 //const tableBtn = document.querySelector('tableButton')
 const tableBtn = document.getElementById('tableButton')
-const movieTable= document.getElementById("movieTable")
+const movieTable= document.getElementById('movieTable')
 let movieTitle = document.querySelector('titleInput')
 let movieYear = document.querySelector('yearInput')
 
